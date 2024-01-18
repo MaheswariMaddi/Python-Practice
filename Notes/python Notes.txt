@@ -1,0 +1,13 @@
+what is python?
+interpreted language(executed line by line)
+high level lang(its like engish)
+cross plateform(code can execute in any os)
+by using python we can dev websites GUI MODULES&Games
+free source
+less rules only indentation we have to fallow
+case sentive
+num not used for varible name
+
+# we can can comment(""")
+
+
